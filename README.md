@@ -4,10 +4,11 @@ This repository contains files related to the projects or case-studies I have wo
 ## Table of Contents
 
 ### 1. Data Visualization
+-- <a href="https://github.com/rohanshetty1888/Analytics/tree/master/DataAnalysis/LinearRegression">Data Visualization in R</a>
 
 ### 2. Data Analysis
--- Linear Regression
+-- <a href="https://github.com/rohanshetty1888/Analytics/tree/master/DataAnalysis/LinearRegression">Linear Regression</a>
 
 ### 3. Big Data
--- HIVE<br>
--- PIG
+-- <a href="https://github.com/rohanshetty1888/Analytics/tree/master/BigData/HIVE">HIVE</a><br>
+-- <a href="https://github.com/rohanshetty1888/Analytics/tree/master/BigData/PIG">PIG</a>
