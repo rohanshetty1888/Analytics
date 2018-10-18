@@ -1,3 +1,5 @@
+![alt text](pe.jpg "Price Elasticity")
+
 <b>PRICE ELASTICITY</b><br>
 
 In case you would like to have a quick overview on "What is Price Elasticity?", please feel free to check out my article on LinkedIN.<br>
