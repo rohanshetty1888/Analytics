@@ -6,7 +6,7 @@ This repository contains files related to the projects or case-studies I have wo
 ## Table of Contents
 
 ### 1. Data Visualization
--- <a href="https://github.com/rohanshetty1888/Analytics/tree/master/DataVisualization/Most_Valuable_Brands">Data Visualization in R</a>
+-- <a href="https://github.com/rohanshetty1888/Analytics/tree/master/DataVisualization/Most_Valuable_Brands">Data Visualization in R</a><br>
 -- <a href="https://github.com/rohanshetty1888/Analytics/tree/master/DataVisualization/Tableau">Data Visualization in Tableau</a>
 
 ### 2. Data Analysis
