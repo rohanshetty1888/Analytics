@@ -1,4 +1,4 @@
-<b>Data Visualization Case Study</b>
+## Case Study : Data Visualization in R
 
 Use the data from the HTML page “The World's Most Valuable Brands List - Forbes.htm”. You will
 need to read the data pertaining to “Most Valuable Brands” from this HTML file and create a
@@ -9,3 +9,5 @@ Once the data is in a data.frame format, you will need to create a visualization
 (b) Luxury<br>
 (c) Automotive<br>
 (d) Financial Services
+
+![alt text](brands.jpg "top brands")
