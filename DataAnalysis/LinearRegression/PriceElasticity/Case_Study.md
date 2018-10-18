@@ -1,7 +1,7 @@
 <b>PRICE ELASTICITY</b><br>
 
 In case you would like to have a quick overview on "What is Price Elasticity?", please feel free to check out my article on LinkedIN.<br>
-LINK -- <a href="https://www.linkedin.com/in/rohanvshetty/">Price Elasticity - Regression Model</a>
+LINK -- <a href="https://www.linkedin.com/in/rohanvshetty/detail/recent-activity/posts/">Price Elasticity - Regression Model</a>
 
 <b>Problem Statement:</b><br>
 
