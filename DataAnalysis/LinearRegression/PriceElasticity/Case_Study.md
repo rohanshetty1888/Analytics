@@ -1,7 +1,7 @@
 <b>PRICE ELASTICITY</b><br>
 
 In case you would like to have a quick overview on "What is Price Elasticity?", please feel free to check out my article on LinkedIN.<br>
--- <a href="https://www.linkedin.com/in/rohanvshetty/">Price Elasticity - Regression Model</a>
+LINK -- <a href="https://www.linkedin.com/in/rohanvshetty/">Price Elasticity - Regression Model</a>
 
 <b>Problem Statement:</b><br>
 
@@ -16,7 +16,7 @@ To identify the pricing dynamics for a leading household cleaning supplies brand
 •	My Target Product Style was "Brand T" with SKUs T1, T2, T3 and T4.<br>
 •	Price Column was missing and needed to be derived using Amount Sold and Units Sold column.<br>
 
-For Detailed drill down analysis please have a look at the "PriceElasticity.pdf" file.<br>
+For detailed drill down analysis please have a look at the "PriceElasticity.pdf" file.<br>
 
 Hopefully you liked my attempt.<br>
 
