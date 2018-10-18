@@ -1,4 +1,4 @@
-<b>MANAGERIAL IMPLICATIONS</b>
+## MANAGERIAL IMPLICATIONS
 
 Using appropriate software, you have to build a multiple linear regression model that can explain/forecast a dependent variable of your choice.<br>
 
@@ -14,3 +14,10 @@ In the Executive Summary you need to highlight:<br>
 •	Key steps of the analysis<br>
 •	The final model and its description<br>
 •	The business implications of your model<br>
+
+## Case Study : Red Wine Quality
+
+To analyze the given data set on Red wine, build a Linear Regression Model to predict the quality of red wine on a scale of 0 to 10 and prepare an Executive Summary Report.<br>
+
+![alt text](redwine.jpg "Red Wine")
+
