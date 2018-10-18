@@ -15,6 +15,6 @@ This repository contains files related to the projects or case-studies I have wo
 ### 3. Data Manipulation
 -- <a href="https://github.com/rohanshetty1888/Analytics/tree/master/DataManipulation/TerrorAttacks">Terror Attacks</a>
 
-### 3. Big Data
+### 4. Big Data
 -- <a href="https://github.com/rohanshetty1888/Analytics/tree/master/BigData/HIVE">HIVE</a><br>
 -- <a href="https://github.com/rohanshetty1888/Analytics/tree/master/BigData/PIG">PIG</a>
