@@ -18,9 +18,6 @@ To identify the pricing dynamics for a leading household cleaning supplies brand
 
 For detailed drill down analysis please have a look at the "PriceElasticity.pdf" file.<br>
 
-Hopefully you liked my attempt.<br>
-
-Any suggestions, comments, feedback are always welcome.<br>
 Please do like and share this post if you find it useful.<br>
 
 <b>Thanks and Regards,<br>
