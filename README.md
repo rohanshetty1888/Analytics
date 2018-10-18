@@ -13,7 +13,8 @@ This repository contains files related to the projects or case-studies I have wo
 -- <a href="https://github.com/rohanshetty1888/Analytics/tree/master/DataAnalysis/LinearRegression">Linear Regression</a>
 
 ### 3. Data Manipulation
--- <a href="https://github.com/rohanshetty1888/Analytics/tree/master/DataManipulation/TerrorAttacks">Terror Attacks</a>
+-- <a href="https://github.com/rohanshetty1888/Analytics/tree/master/DataManipulation/TerrorAttacks">Terror Attacks</a><br>
+-- <a href="https://github.com/rohanshetty1888/Analytics/tree/master/DataManipulation/StarBucks">Star Bucks</a>
 
 ### 4. Big Data
 -- <a href="https://github.com/rohanshetty1888/Analytics/tree/master/BigData/HIVE">HIVE</a><br>
