@@ -1,6 +1,6 @@
 ![alt text](pe.jpg "Price Elasticity")
 
-<b>PRICE ELASTICITY</b><br>
+##CASE STUdy : PRICE ELASTICITY<br>
 
 In case you would like to have a quick overview on "What is Price Elasticity?", please feel free to check out my article on LinkedIN.<br>
 LINK -- <a href="https://www.linkedin.com/in/rohanvshetty/detail/recent-activity/posts/">Price Elasticity - Regression Model</a>
