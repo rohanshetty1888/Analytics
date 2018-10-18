@@ -17,7 +17,7 @@ To identify the pricing dynamics for a leading household cleaning supplies brand
 •	My Target Product Style was "Brand T" with SKUs T1, T2, T3 and T4.<br>
 •	Price Column was missing and needed to be derived using Amount Sold and Units Sold column.<br>
 
-For detailed drill down analysis please have a look at the "PriceElasticity.pdf" file.<br>
+For detailed drill down analysis please have a look at the <a href="https://github.com/rohanshetty1888/Analytics/blob/master/DataAnalysis/LinearRegression/PriceElasticity/PriceElasticity.pdf"> PriceElasticity.pdf</a> file.<br>
 
 Please do like and share this post if you find it useful.<br>
 
