@@ -1,4 +1,6 @@
-<b> Airline Flight Delay Case study </b>
+## PIG 
+
+<b>Case study : Airline Flight Delay</b>
 
 Find the proportion of flights delayed. A flight is delayed if the delay is greater than 15 minutes. <br>
 Compute the fraction of delayed flights per month in the year 2008. <br>
