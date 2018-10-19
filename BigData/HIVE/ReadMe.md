@@ -1,4 +1,6 @@
-<b>Movie Lens Case Study </b>
+## HIVE 
+
+<b>Case Study : Movie Lens</b>
 
 The dataset provided - MovieLens data sets are collected by the GroupLens Research Project at the University of Minnesota.
 It represents users' reviews of movies. 
