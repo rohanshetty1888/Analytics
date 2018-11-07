@@ -10,7 +10,7 @@ In case, of random forest, these ensemble classifiers are the randomly created d
 
 <b>Problem Statement:</b><br>
 
-Build a random forest classifier using python scikit learn library to predict the Breast cancer type (Benign or Malignant).br>
+Build a random forest classifier using python scikit learn library to predict the Breast cancer type (Benign or Malignant).<br>
  
 <b>Available Data:</b><br>
 I have used the UCI breast cancer dataset to build the random forest classifier in Python. <br>
